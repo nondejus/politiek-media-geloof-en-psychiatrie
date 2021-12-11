@@ -1,2 +1,13 @@
 # politiek-media-en-medici
-vernietigingskamp nederland
+
+'2002-2021'
+
+
+# chemical warfare
+https://en.wikipedia.org/wiki/Chemical_warfare
+
+# vernietigingskamp
+https://nl.wikipedia.org/wiki/Vernietigingskamp
+
+# staat der nederlanden
+https://nl.wikipedia.org/wiki/Staat_der_Nederlanden
